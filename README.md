@@ -5,7 +5,7 @@ Diese Liste enthält Todos für die Chiemgau-Meisterschaft 2023.
 
 ### Hardware
 - [ ] 1 langes Netzwerkkabel (> 40m)
-- [ ] andere Netzwerkkabel (3 * 10m, 1 * 5m)
+- [x] andere Netzwerkkabel (3 * 10m, 1 * 5m)
 - [ ] 2 Switches
 - [ ] DHCP-Server (Fritzbox)
 - [ ] Laserdrucker
