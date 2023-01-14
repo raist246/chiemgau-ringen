@@ -18,6 +18,7 @@ Diese Liste enthält Todos für die Chiemgau-Meisterschaft 2023.
 - [ ] 2 Scheren
 - [ ] Locher
 - [ ] Klebeband und Tesa
+- [ ] Klarsichtfolien + Inhalt für "Matte X" und "Jugend X" zum Aushang der Wettkampflisten
 - [ ] Notebooks mit Turnierprogramm: 2 * Wettkampfbüro, 3 für 3 Kampfrichtertische, 1 für Ansager
 - [ ] Schuhschachteln o.ä. zum Sammeln der Urkunden + Medallien pro Altersklasse und Stilart
 
