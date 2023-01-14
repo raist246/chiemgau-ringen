@@ -14,13 +14,14 @@ Diese Liste enthält Todos für die Chiemgau-Meisterschaft 2023.
 - [x] Schneidemaschine zum Zuschneiden von Starterkarten
 - [ ] 5 Ordner mit Registern für Starterkarten (pro Altersklasse und Stilart: E, A/B, C/D; A/B-GR, C/D-GR)
 - [ ] Ordner anlegen mit: Anleitung Programm, Ausschreibung, Regeln
-- [ ] Gummis zum Bündeln von Startkarten
+- [ ] Briefumschläge zum Bündeln von Startkarten (Namen des Vereins draufschreiben)
 - [ ] 2 Scheren
 - [ ] Locher
 - [ ] Klebeband und Tesa
 - [ ] Klarsichtfolien + Inhalt für "Matte X" und "Jugend X" zum Aushang der Wettkampflisten
 - [ ] Notebooks mit Turnierprogramm: 2 * Wettkampfbüro, 3 für 3 Kampfrichtertische, 1 für Ansager
 - [ ] Schuhschachteln o.ä. zum Sammeln der Urkunden + Medallien pro Altersklasse und Stilart
+- [ ] Blanko-Startkarten ausdrucken für Nachmeldung
 
 ### Software
 - [x] 2 Turniere (FS + GR) anlegen, zuerst das FS-Turnier aktivieren
