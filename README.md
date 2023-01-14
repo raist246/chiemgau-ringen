@@ -44,7 +44,8 @@ Pro Tisch brauchen wir:
 - [ ] kurze Schulung für die Bediener
 
 ### Ansager
-- [ ] ein Laptop für die Beameranzeige
+- [ ] ein Laptop für die Beameranzeige, idealerweise mit Dock mit zwei HDMI-Anschlüssen
+- [ ] idealerweise ein Beamer und ein Fernseher zur Anzeige der Kampffolge auf beiden Seiten der Halle (Zuschauer -> Beamer, Kampfrichtertisch -> Fernseher)
 - [ ] kurze Schulung für den/die Ansager
 
 ### Wettkampfbüro
