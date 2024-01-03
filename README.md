@@ -42,6 +42,7 @@ Pro Tisch brauchen wir:
 - [ ] Turnier auf Hauptrechner verbinden
 - [ ] Mattennummer im Programm unter "Drucker/Optionen" eingetragen
 - [ ] kurze Schulung für die Bediener
+- [ ] Liste zum Mitschreiben "Ergebnisliste für Kampfrichtertisch", Link zum [Download auf der BRV-Website](https://www.brv-ringen.de/index.php?option=com_wbw&view=wbw&Itemid=516&tk=dw&dwbid=1&op=lcl&opa=0&ops=counter&dwcid=21#top)
 
 ### Ansager
 - [ ] ein Laptop für die Beameranzeige, idealerweise mit Dock mit zwei HDMI-Anschlüssen
