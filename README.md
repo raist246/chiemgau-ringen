@@ -66,6 +66,7 @@ Pro Tisch brauchen wir:
 - [ ] Urkunden immer sofort drucken
 - [ ] Wettkampflisten 2*drucken: einmal aushängen, einmal in Ordner einheften
 - [ ] wenn Klasse fertig: alle Urkunden drucken, Medallien
+- [ ] Sollten die Teilnehmerzahlen um ein oder mehrere Ringer nicht, passen, ist wahrscheinlich ein Ringer-DB-Eintrag verwaist. Diese kann ich über ein Query finden und löschen: ![](verwaiste_ringer.jpg)
 
 ### Wechsel auf Griechisch-Turnier
 - [ ] Durchsage Ringer streichen, die aus dem Turnier fallen
