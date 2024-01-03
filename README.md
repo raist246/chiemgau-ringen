@@ -4,14 +4,14 @@ Diese Liste enthält Todos für die Chiemgau-Meisterschaft 2023.
 ## Vorbereitung
 
 ### Hardware
-- [x] 1 langes Netzwerkkabel (> 40m)
-- [x] andere Netzwerkkabel (3 * 10m, 1 * 5m)
+- [ ] 1 langes Netzwerkkabel (> 40m)
+- [ ] andere Netzwerkkabel (3 * 10m, 1 * 5m)
 - [ ] 1 Switches (mind. 5 Ports)
 - [ ] DHCP-Server (Fritzbox, mind. 3 LAN-Ports)
-- [x] 1 Laserdrucker zum Drucken der Wettkampflisten
-- [x] 1 Tintenstrahldrucker zum Drucken der Urkunden mit dem dicken Papier
-- [x] Papier (5 verschiedene Farben für Starterkarten pro Jungend und Stilart)
-- [x] Schneidemaschine zum Zuschneiden von Starterkarten
+- [ ] 1 Laserdrucker zum Drucken der Wettkampflisten
+- [ ] 1 Tintenstrahldrucker zum Drucken der Urkunden mit dem dicken Papier
+- [ ] Papier (5 verschiedene Farben für Starterkarten pro Jungend und Stilart)
+- [ ] Schneidemaschine zum Zuschneiden von Starterkarten
 - [ ] 5 Ordner mit Registern für Starterkarten (pro Altersklasse und Stilart: E, A/B, C/D; A/B-GR, C/D-GR)
 - [ ] Ordner anlegen mit: Anleitung Programm, Ausschreibung, Regeln
 - [ ] Briefumschläge zum Bündeln von Startkarten (Namen des Vereins draufschreiben)
@@ -24,8 +24,8 @@ Diese Liste enthält Todos für die Chiemgau-Meisterschaft 2023.
 - [ ] Blanko-Startkarten ausdrucken für Nachmeldung
 
 ### Software
-- [x] 2 Turniere (FS + GR) anlegen, zuerst das FS-Turnier aktivieren
-- [x] Excel-Listen mit gemeldeten Teilnehmern (Prüfen ob Import funktioniert, Probeturnier anlegen)
+- [ ] 2 Turniere (FS + GR) anlegen, zuerst das FS-Turnier aktivieren
+- [ ] Excel-Listen mit gemeldeten Teilnehmern (Prüfen ob Import funktioniert, Probeturnier anlegen)
 - [ ] Prüfung: Anzahl Startkarten im Ordner muss gleich der Anzahl im Programm sein
 - [ ] Probedruck Urkunden (inkl. Einstellung der Vorlage im Programm), Vorlagen können direkt im Access (unten rechts) bearbeitet werden. Vordruck Chiemgau: UrkundenPenzbergBM2009_AC
 
@@ -36,7 +36,7 @@ Pro Tisch brauchen wir:
 - [ ] Ladekabel, Maus, Netzwerkanschluss
 - [ ] Gong und Punktetafel (als Backup)
 - [ ] Stift
-- [x] Programm freigeschalten?
+- [ ] Programm freigeschalten?
 - [ ] IP-Adresse vom DHCP-Server bezogen?
 - [ ] Zugriff auf freigegebenen Ordner/Turnier am Hauptrechner funktioniert?
 - [ ] Turnier auf Hauptrechner verbinden
