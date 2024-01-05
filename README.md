@@ -6,20 +6,20 @@ Diese Liste enthält Todos für die Chiemgau-Meisterschaft 2023.
 ### Hardware
 - [ ] 1 langes Netzwerkkabel (> 40m)
 - [ ] andere Netzwerkkabel (3 * 10m, 1 * 5m)
-- [ ] 1 Switches (mind. 5 Ports)
+- [ ] 1 Switch (mind. 5 Ports)
 - [ ] DHCP-Server (Fritzbox, mind. 3 LAN-Ports)
 - [ ] 1 Laserdrucker zum Drucken der Wettkampflisten
 - [ ] 1 Tintenstrahldrucker zum Drucken der Urkunden mit dem dicken Papier
-- [ ] Papier (5 verschiedene Farben für Starterkarten pro Jungend und Stilart)
+- [ ] Papier (2 verschiedene Farben für Starterkarten pro Stilart)
 - [ ] Schneidemaschine zum Zuschneiden von Starterkarten
-- [ ] 5 Ordner mit Registern für Starterkarten (pro Altersklasse und Stilart: E, A/B, C/D; A/B-GR, C/D-GR)
+- [ ] 2 Ordner mit Registern für Wettkampfliste im Büro (pro Stilart einen, optional)
 - [ ] Ordner anlegen mit: Anleitung Programm, Ausschreibung, Regeln
 - [ ] Briefumschläge zum Bündeln von Startkarten (Namen des Vereins draufschreiben)
 - [ ] 2 Scheren
 - [ ] Locher
 - [ ] Klebeband und Tesa
 - [ ] Klarsichtfolien + Inhalt für "Matte X" und "Jugend X" zum Aushang der Wettkampflisten
-- [ ] Notebooks mit Turnierprogramm: 2 * Wettkampfbüro, 3 für 3 Kampfrichtertische, 1 für Ansager
+- [ ] Notebooks mit Turnierprogramm: 2 * Wettkampfbüro (brauchen Freischaltung), 3 für 3 Kampfrichtertische (Freischaltung optional), 1 für Ansager (Freischaltungen optional)
 - [ ] Schuhschachteln o.ä. zum Sammeln der Urkunden + Medallien pro Altersklasse und Stilart
 - [ ] Blanko-Startkarten ausdrucken für Nachmeldung
 
@@ -31,7 +31,7 @@ Diese Liste enthält Todos für die Chiemgau-Meisterschaft 2023.
 
 ### Kampfrichtertische
 Pro Tisch brauchen wir:
-- [ ] 1 Laptop mit Access und Turnierauswertung
+- [ ] 1 Laptop mit Access und Turnierauswertung (Freischaltung optional)
 - [ ] Bildschirm für die Anzeige
 - [ ] Ladekabel, Maus, Netzwerkanschluss
 - [ ] Gong und Punktetafel (als Backup)
