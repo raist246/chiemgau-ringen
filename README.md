@@ -1,5 +1,8 @@
 # Chiemgau Meisterschaft
-Diese Liste enthält Todos für die Chiemgau-Meisterschaft 2023.
+Diese Liste enthält Todos für die Chiemgau-Meisterschaft.
+
+## Mattenaufbau
+![](RingenTurnier.jpg)
 
 ## Vorbereitung
 
