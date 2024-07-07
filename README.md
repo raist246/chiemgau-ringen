@@ -1,5 +1,5 @@
 # Chiemgau Meisterschaft
-Diese Liste enthält Todos für die Chiemgau-Meisterschaft.
+Diese Liste enthält Todos für ein Ringer-Turnier mit der Hammer-Turnierauswertung.
 
 ## Mattenaufbau
 ![](RingenTurnier.jpg)
@@ -87,3 +87,29 @@ Pro Tisch brauchen wir:
 - [ ] Nach jeder Runde: Poolzettel ausdrucken und Aufhängen
 - [ ] Sobald eine Gewichtsklasse fertig ist: Urkunden ausdrucken
 - [ ] alle Teilnehmer, die auch in Greco starten gleich mit eintragen!
+
+## Upload auf BRV-Seite
+
+Zunächst auf der BRV-Seite zu den Turnieren navigieren:
+![](01_einstieg.png)
+
+Hier erscheint der Link zum *Turnierdienst* oben rechts:
+![](02_turnierdienst.png)
+
+Als nächstes ein *Hammermat-Turnier* anlegen:
+![](03_hammermat_anlegen.png)
+
+Hier die *RDB*-Datei hochladen. Diese wird automatisch im Sicherungspfad des Programms abgelegt, wenn man sichert.
+Die Gruppe entsprechend auswählen, hier im Beispiel fürs Jean-Foeldeak-Turnier 2024.
+Eine Gruppe hat den Vorteil, dass auch gestückelte Turniere (mehrere MBD-Dateien) zusammen gelistet werden.
+Wenn man gleich *online und gelistet* einstellt, taucht das Turnier sofort auf.
+![](04_upload.png)
+
+Sollte etwas verändert werden müssen, kann man das Turnier nachträglich administrieren:
+![](05_administrieren.png)
+
+
+
+
+
+
