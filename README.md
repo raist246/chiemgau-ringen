@@ -114,7 +114,9 @@ Wenn man gleich *online und gelistet* einstellt, taucht das Turnier sofort auf.
 Sollte etwas verändert werden müssen, kann man das Turnier nachträglich administrieren:
 ![](05_administrieren.png)
 
-
+## Upload fehlgeschlagen?
+* sind alte Turniere in den Vorgaben? -> löschen
+* sind verwaiste Ringer im Turnier? -> löschen
 
 
 
