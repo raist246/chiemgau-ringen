@@ -34,7 +34,7 @@ Diese Datei enthält Todos und Tipps für die Durchführung eines Ringer-Turnier
 
 ## Software
 - [ ] 2 Turniere (FS + GR) anlegen, zuerst das FS-Turnier aktivieren
-- [ ] Excel-Listen mit gemeldeten Teilnehmern (Prüfen ob Import funktioniert, Probeturnier anlegen)
+- [ ] Excel-Listen mit gemeldeten Teilnehmern (Prüfen ob Import funktioniert, Probeturnier anlegen) ACHTUNG: Ein Eintrag in einem Namensfeld dürfen nicht mehr als 20 Zeichen haben, sonst schlägt der Import fehl!
 - [ ] Prüfung: Anzahl Startkarten im Ordner muss gleich der Anzahl im Programm sein
 - [ ] Probedruck Urkunden (inkl. Einstellung der Vorlage im Programm), Vorlagen können direkt im Access (unten rechts) bearbeitet werden. Vordruck Chiemgau: UrkundenPenzbergBM2009_AC
 
